@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+#tempCalc{
+    background-color: #d2691e;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+label{
+    font-size: 30px;
+    color: #f1f10b;
+}
+
+#temp_diff{
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+#temp{
+    margin-left: 25%;
+    margin-top: 20px;
+}
+
+#sub{
+    margin-left: 45%;
+    margin-top: 20px;
+
+}
+
+#resultContainer{
+    margin-left: 30%;
+    margin-top: 20px;
+    font-size: 30px;
+    color: #f1f10b;
+}
